@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <IncidentDef>
+    <defName>ROM_Incident_Crows</defName>
+    <label>sinister crows</label>
+    <targetType>BaseMap</targetType>
+    <workerClass>ROM_Incidents.IncidentWorker_Crows</workerClass>
+    <baseChance>5</baseChance>
+    <minRefireDays>2</minRefireDays>
+    <category>ThreatSmall</category>
+  </IncidentDef>
+
+</Defs>

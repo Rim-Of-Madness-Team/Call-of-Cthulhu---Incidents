@@ -1,0 +1,3 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Call of Cthulhu - Incidents\Source\obj\Debug\ROM_Incidents.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Call of Cthulhu - Incidents\Assemblies\CthulhuIncidents.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Call of Cthulhu - Incidents\Source\obj\Debug\CthulhuIncidents.dll
